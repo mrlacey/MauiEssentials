@@ -52,6 +52,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dotnet-bot.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="MauiExtensions.vsext">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

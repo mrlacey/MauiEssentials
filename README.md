@@ -9,6 +9,7 @@ Download the extension from the [Marketplace](https://marketplace.visualstudio.c
 
 Single installer for Visual Studio extensions useful when doing .NET MAUI development.
 
+- [MAUI App Accelerator](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SvgViewer)
 - [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
 

@@ -9,6 +9,10 @@
     {
       "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f",
       "name": "SVG Viewer"
+    },
+    {
+      "vsixId": "MauiAppAccelerator.c259e804-ada1-4ffb-82df-1ec473673309",
+      "name": "MAUI App Accelerator"
     }
   ]
 }

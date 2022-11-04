@@ -53,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dotnet-bot.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="MauiExtensions.vsext">

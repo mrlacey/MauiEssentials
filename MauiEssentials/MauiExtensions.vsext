@@ -13,6 +13,10 @@
     {
       "vsixId": "MauiAppAccelerator.c259e804-ada1-4ffb-82df-1ec473673309",
       "name": "MAUI App Accelerator"
+    },
+    {
+      "vsixId": "Tizen.Extension.Samsung.c6ca1b81-7bca-4d31-9725-e30b27d0f8e5",
+      "name": "Visual Studio Tools for Tizen"
     }
   ]
 }

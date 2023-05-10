@@ -12,5 +12,6 @@ Single installer for Visual Studio extensions useful when doing .NET MAUI develo
 - [MAUI App Accelerator](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SvgViewer)
 - [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
+- [Visual Studio Tools for Tizen](https://marketplace.visualstudio.com/items?itemName=tizen.VSToolsTizen2022)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.

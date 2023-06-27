@@ -17,6 +17,10 @@
     {
       "vsixId": "Tizen.Extension.Samsung.c6ca1b81-7bca-4d31-9725-e30b27d0f8e5",
       "name": "Visual Studio Tools for Tizen"
+    },
+    {
+      "vsixId": "2c8bcbae-2bdd-46e4-8856-ce48cf9a7223",
+      "name": "XAML Styler for Visual Studio 2022"
     }
   ]
 }

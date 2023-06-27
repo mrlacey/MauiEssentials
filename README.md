@@ -10,6 +10,7 @@ Download the extension from the [Marketplace](https://marketplace.visualstudio.c
 Single installer for Visual Studio extensions useful when doing .NET MAUI development.
 
 - [MAUI App Accelerator](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
+- [XAML Styler for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SvgViewer)
 - [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
 - [Visual Studio Tools for Tizen](https://marketplace.visualstudio.com/items?itemName=tizen.VSToolsTizen2022)

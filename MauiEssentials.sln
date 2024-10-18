@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F633793-F870-4F53-B244-4653A8D74251}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		MauiEssentials\signvsix.targets = MauiEssentials\signvsix.targets
 	EndProjectSection
 EndProject
 Global

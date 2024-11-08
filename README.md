@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
 
+[![Build](https://github.com/mrlacey/MauiEssentials/actions/workflows/build.yaml/badge.svg)](https://github.com/mrlacey/MauiEssentials/actions/workflows/build.yaml)
+
 Download the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiEssentials)
 
 ------------------------

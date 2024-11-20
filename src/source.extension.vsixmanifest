@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="MauiEssentials.57ba0edc-b007-4755-961f-d4e52848b36a" Version="1.4.1" Language="en-US" Publisher="Matt Lacey" />
+        <Identity Id="MauiEssentials.57ba0edc-b007-4755-961f-d4e52848b36a" Version="1.4.2" Language="en-US" Publisher="Matt Lacey" />
         <DisplayName>.NET MAUI Essentials</DisplayName>
         <Description xml:space="preserve">A collection of Visual Studio extensions to help with .NET MAUI development</Description>
         <MoreInfo>https://github.com/mrlacey/MauiEssentials</MoreInfo>

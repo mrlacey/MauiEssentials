@@ -11,7 +11,7 @@ namespace MauiEssentials
         public const string Name = ".NET MAUI Essentials";
         public const string Description = @"A collection of Visual Studio extensions to help with .NET MAUI development";
         public const string Language = "en-US";
-        public const string Version = "1.4.1";
+        public const string Version = "1.4.2";
         public const string Author = "Matt Lacey";
         public const string Tags = "";
     }
